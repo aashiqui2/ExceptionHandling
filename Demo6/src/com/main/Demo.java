@@ -1,13 +1,13 @@
 package com.main;
 
 import com.service.CalculatorService;
-import com.service.impl.CalculatorServiceImpl2;
+import com.service.impl.CalculatorServiceImpl;
 
 
 
 public class Demo {
 	public static void main(String[] args) {
-		CalculatorService calculatorService = new CalculatorServiceImpl2();
+		CalculatorService calculatorService = new CalculatorServiceImpl();
 		try {
 			System.out.println("---SCENARIO 1---");
 			calculatorService.divide(10, 2);

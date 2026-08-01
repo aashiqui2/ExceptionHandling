@@ -1,0 +1,7 @@
+# Set default behavior to automatically normalize line endings for all text files
+* text=auto
+
+# Enforce LF line endings for Markdown and documentation files
+*.md text eol=lf
+*.gitignore text eol=lf
+*.java text eol=lf

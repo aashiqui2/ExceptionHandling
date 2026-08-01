@@ -1,3 +1,51 @@
+# Compiled Java files
 *.class
-*.metadata
-*.sonarlint
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build & Output directories
+bin/
+build/
+target/
+out/
+
+# Eclipse & STS (Spring Tool Suite)
+.metadata/
+.classpath
+.project
+.settings/
+.factorypath
+.rebel.xml.bak
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# SonarLint & Tooling
+.sonarlint/
+.sonar/
+
+# Log files & Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
