@@ -62,7 +62,7 @@ The project is structured into incremental demo projects, each highlighting a sp
                          ArrayIndexOutOfBoundsException)
 ```
 
-![Checked vs Unchecked Exceptions](Checked-and-Unchecked-exceptions-in-jaa.jpg)
+![Checked vs Unchecked Exceptions](img.jpg)
 
 ### 2. Core Keywords Summary
 
